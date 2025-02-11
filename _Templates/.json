@@ -1,0 +1,10 @@
+{
+    "name": "Template Name",
+    "description": "Description of the template",
+    "version": "1.0.0",
+    "author": "Author Name",
+    "data": {
+        "key1": "value1",
+        "key2": "value2"
+    }
+}
