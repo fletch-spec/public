@@ -67,7 +67,6 @@ Video games, AI, data science, music production, software development, content c
 
 ## Contact
 
-For any inquiries, please contact me at [fletchercarlton2001@gmail.com].
+For any inquiries, please contact me at [fletchercarlton2001@gmail.com](mailto:your-email@example.com).
 
 https://www.midjourney.com/explore?user_id=5327d6f1-be4b-4361-a061-c5d256f360c5
-
